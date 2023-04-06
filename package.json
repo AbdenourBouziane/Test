@@ -1,0 +1,26 @@
+{
+  "name": "daftare",
+  "version": "1.0.0",
+  "description": "a project",
+  "main": "config.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdenourBouziane/Game-Changers.git"
+  },
+  "keywords": [
+    "gc"
+  ],
+  "author": "Abdenour",
+  "license": "ISC",
+  "bugs": {
+  "url": "https://github.com/AbdenourBouziane/Game-Changers/issues"
+  },
+  "dependencies": {
+    "firebase": "^9.19.1",
+    "vite": "^4.2.1"
+  }
+}
